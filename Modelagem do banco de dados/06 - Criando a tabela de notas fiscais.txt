@@ -1,0 +1,4 @@
+06
+Criando a tabela de notas fiscais
+
+O nome da tabela deve ser NOTAS.

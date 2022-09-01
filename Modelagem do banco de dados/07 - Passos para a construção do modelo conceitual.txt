@@ -1,0 +1,10 @@
+07
+Passos para a construção do modelo conceitual
+
+Marque as opções verdadeiras que representam os passos para construção de um modelo conceitual:
+
+R: Construção do diagrama de entidades e relacionamentos.
+
+R: Estabelecer cardinalidade entre as entidades.
+
+R: Este é um dos requisitos mencionados no vídeo.

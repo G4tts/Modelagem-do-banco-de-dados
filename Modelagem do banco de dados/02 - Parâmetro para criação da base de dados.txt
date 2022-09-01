@@ -1,0 +1,6 @@
+02
+Parâmetro para criação da base de dados
+
+O que significa o parâmetro SIZE, usado na criação da base de dados no SQL Server?
+
+R: Alternativa correta! Este parâmetro representa o tamanho inicial da base após ela ser criada.

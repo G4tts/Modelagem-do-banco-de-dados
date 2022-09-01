@@ -1,0 +1,10 @@
+06
+Requisitos de um banco de dados
+
+Marque a opção verdadeira que representa um requisito para o início da construção de um banco de dados:
+
+R: Efetuar as atividades de entrevistas e reuniões.
+
+R: Desenho de modelo mais fiel à realidade.
+
+R: Entendimento das regras de negócio.

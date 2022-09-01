@@ -1,0 +1,5 @@
+04
+Chave primária
+
+O que é uma chave primária?
+R: É uma restrição que determina que os valores de determinados campos não podem se repetir dentro das linhas das tabelas.
